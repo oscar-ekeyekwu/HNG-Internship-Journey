@@ -1,3 +1,3 @@
 This is a readme.txt
 
-Task 1 - HNGI7.0
+Task 1 - HNGi7.0
